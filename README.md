@@ -15,3 +15,16 @@ You’ve been able to find tables of data online dealing with forestation as wel
   - All of the columns of the origin tables
   - A new column that provides the percent of the land area that is designated as forest.
 - Keep in mind that the column forest_area_sqkm in the forest_area table and the land_area_sqmi in the land_area table are in different units (square kilometers and square miles, respectively), so an adjustment will need to be made in the calculation you write (1 sq mi = 2.59 sq km).
+
+## Instructions
+You will be creating a report for the executive team in which you explain your results using complete sentences.
+
+## Report Sections
+The report has five sections that you will need to complete:
+
+- Global Situation
+- Regional Outlook
+- Country-Level Detail
+- Recommendations
+- Appendix: SQL queries used
+
