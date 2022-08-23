@@ -33,6 +33,7 @@ The report has five sections that you will need to complete:
 - Answering these questions will help you add information into the template.
 - Use these questions as guides to write SQL queries.
 - Use the output from the query to answer these questions.
+
 a. What was the total forest area (in sq km) of the world in 1990? Please keep in mind that you can use the country record denoted as “World" in the region table.
 
 b. What was the total forest area (in sq km) of the world in 2016? Please keep in mind that you can use the country record in the table is denoted as “World.”
